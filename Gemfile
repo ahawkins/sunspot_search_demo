@@ -30,7 +30,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 #   gem 'webrat'
 # end
 
-gem 'sunspot_search', :path => '~/projects/sunspot_search'
+gem 'sunspot_search', :path => 'git://github.com/Adman65/sunspot_search.git'
 gem 'sqlite3'
 gem 'formtastic'
 gem 'nifty-generators'
