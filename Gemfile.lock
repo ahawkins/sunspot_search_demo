@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/Adman65/sunspot_search.git
-  revision: daedadcd313697908e5267311af8415d8c6bdd7d
+  revision: ed9ca68dac0a83a05f0489eca859bc69da37e4fc
   specs:
     sunspot_search (0.0.1)
       formtastic (~> 1.2.3)
