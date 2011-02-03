@@ -1,5 +1,6 @@
-PATH
-  remote: ~/projects/sunspot_search
+GIT
+  remote: git://github.com/Adman65/sunspot_search.git
+  revision: daedadcd313697908e5267311af8415d8c6bdd7d
   specs:
     sunspot_search (0.0.1)
       formtastic (~> 1.2.3)
